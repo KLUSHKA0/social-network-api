@@ -1,0 +1,4 @@
+.env
+/src/routes/main.ts
+/src/views/main.ejs
+/node_modules
